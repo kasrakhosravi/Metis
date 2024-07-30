@@ -1,4 +1,4 @@
-# Beginners table
+# Quick start
 
 <details>
 
@@ -90,7 +90,7 @@ curl https://l2rpc.devnet.metisdevops.link -X POST -H "Content-Type: application
 
 </details>
 
-<table><thead><tr><th width="197">Basic info</th><th width="284">Mainnet</th><th>Testnet</th></tr></thead><tbody><tr><td>Add network to your wallet</td><td><a href="https://chainlist.org/chain/1088">Andromeda</a></td><td> <a href="https://chainlist.org/chain/59902">Sepolia</a></td></tr><tr><td>Solidity version</td><td>0.8.26</td><td>Same as mainnet</td></tr><tr><td>RPC</td><td>https://andromeda.metis.io/?owner=1088</td><td>https://sepolia.metisdevops.link</td></tr><tr><td>Fork of EVM</td><td>Berlin</td><td>Same as mainnet</td></tr><tr><td>Unsupported EIPs</td><td><p>EIPs from Shanghai update are not supported for now (check the notice at the top)</p><p>Also 1559, 4337 arent supported.</p></td><td>Same as mainnet</td></tr><tr><td>Unsupported infra</td><td><ul><li>Tenderly (use paid <a href="https://www.alchemy.com/">Alchemy</a>)</li><li>The Graph (use <a href="https://www.ormilabs.xyz/">Ormigraph</a> or paid <a href="https://www.alchemy.com/">Alchemy</a>)</li></ul></td><td>Same as mainnet</td></tr><tr><td>Gas fee formula</td><td>Manual setup for now</td><td>Same as mainnet</td></tr><tr><td>Faucet for test tokens</td><td>Nope</td><td><a href="https://faucet-427702.uc.r.appspot.com/">Link</a></td></tr></tbody></table>
+<table><thead><tr><th width="197">Basic info</th><th width="284">Mainnet</th><th>Testnet</th></tr></thead><tbody><tr><td>Add network to your wallet</td><td><a href="https://chainlist.org/chain/1088">Andromeda</a></td><td> <a href="https://chainlist.org/chain/59902">Sepolia</a></td></tr><tr><td>Solidity version</td><td>0.8.26</td><td>Same as mainnet</td></tr><tr><td>RPC</td><td>https://andromeda.metis.io/?owner=1088</td><td>https://sepolia.metisdevops.link</td></tr><tr><td>Fork of EVM</td><td>Berlin</td><td>Same as mainnet</td></tr><tr><td>Unsupported EIPs</td><td><p>EIPs from Shanghai update are not supported for now (check the notice at the top)</p><p>Also 1559, 4337 arent supported.</p></td><td>Same as mainnet</td></tr><tr><td>Unsupported infra</td><td><ul><li>Tenderly (use paid <a href="https://www.alchemy.com/">Alchemy</a>)</li><li>The Graph (use <a href="https://www.ormilabs.xyz/">Ormigraph</a> or paid <a href="https://www.alchemy.com/">Alchemy</a>)</li></ul></td><td>Same as mainnet</td></tr><tr><td>Gas fee formula</td><td>50 / METIS token price</td><td>Same as mainnet</td></tr><tr><td>Faucet for test tokens</td><td>Nope</td><td><a href="https://faucet-427702.uc.r.appspot.com/">Link</a></td></tr></tbody></table>
 
 ## Canonical contract addresses of tokens
 
