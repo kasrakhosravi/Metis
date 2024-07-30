@@ -11,16 +11,17 @@
   * [Verifying Deployed Contracts](get-started/verifying-deployed-contracts.md)
   * [Client Integration](readme/client-integration.md)
 
-## Decentralized Sequencer
+## Protocol
 
-* [Overview](decentralized-sequencer/overview/README.md)
-  * [Transaction cycle](decentralized-sequencer/overview/transaction-cycle.md)
-  * [Finilizing the block](decentralized-sequencer/overview/block-finality.md)
-  * [Sequencer node](decentralized-sequencer/overview/sequencer-node.md)
-  * [MPC module](decentralized-sequencer/overview/mpc-module.md)
-  * [Bridge module](decentralized-sequencer/overview/bridge-module.md)
-  * [Locking Pool / NFT](decentralized-sequencer/overview/locking-pool-nft.md)
-  * [Selection and Rotation](decentralized-sequencer/overview/selection-and-rotation.md)
+* [Layer 2 Explained](protocol/layer-2-explained.md)
+* [Decentralized Sequencer](protocol/overview/README.md)
+  * [Transaction cycle](protocol/overview/transaction-cycle.md)
+  * [Finilizing the block](protocol/overview/finilizing-the-block.md)
+  * [Sequencer node](protocol/overview/sequencer-node.md)
+  * [MPC module](protocol/overview/mpc-module.md)
+  * [Bridge module](protocol/overview/bridge-module.md)
+  * [Locking Pool / NFT](protocol/overview/locking-pool-nft.md)
+  * [Selection and Rotation](protocol/overview/selection-and-rotation.md)
 
 ## Bridge
 
