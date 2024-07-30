@@ -47,7 +47,7 @@
 
 ## Deprecated
 
-* [Protocol in Detail](protocol-in-detail/README.md)
+* [Protocol in Detail DEPRECATED](protocol-in-detail/README.md)
   * [Protocol FAQ](protocol-in-detail/protocol-faq.md)
   * [Metis L2 Explained](protocol-in-detail/metis-l2-explained.md)
   * [Transaction Fees](protocol-in-detail/transaction-fees.md)
