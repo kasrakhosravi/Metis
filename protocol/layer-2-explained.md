@@ -8,8 +8,7 @@ This piece consists of following sections:\
 1\. Common questions — the most frequent questions simply explained;\
 2\. Structure — describes the system in its parts\
 3\. Algorithm — step-by-step guide on what happens when the user submits a transaction on Andromeda\
-4\. Special scenarios — how the system behaves during uncommon cases
-
+4\. Special scenarios — how the system behaves during uncommon cases\
 5\. Diagrams — the visual representation of the system on specification level;\
 Flowchart shows the overall behavior, while the Activity diagram goes into detail of every single entity included in the system;
 
@@ -175,9 +174,10 @@ Describing the extraordinary cases and how the Metis system handles them.
 
 ## 5. Diagrams
 
-Visual representation of the Metis Layer 2 system from 2 different angles.\
-Note: please use the steps from the algorithm section below to follow the arrows on the diagrams. Also the Lucidchart requires registration or you can sign in with your Google account.
+Visual representation of the Metis Layer 2 system from 2 different angles.
 
-Flowchart diagram works great if you want to see the entire system without overflow of details:
+{% file src="../.gitbook/assets/Transaction_Flowchart.png" %}
 
-\
+{% file src="../.gitbook/assets/Simple_transaction_flowchart.png" %}
+
+{% file src="../.gitbook/assets/Deposit_flowchart.png" %}
