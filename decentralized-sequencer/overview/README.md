@@ -1,4 +1,4 @@
-# Overview
+# Decentralized Sequencer
 
 <figure><img src="../../.gitbook/assets/Metis Sequencer Abstracted Structure_.drawio.png" alt=""><figcaption><p>Abstracted diagram of Decentralized Sequencer architecture, <a href="https://drive.google.com/file/d/14bQChT5v_hDrViw1my1_v7CP5X1DgLrY/view?usp=sharing">link</a></p></figcaption></figure>
 
