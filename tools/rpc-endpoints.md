@@ -7,3 +7,5 @@ For Mainnet:\
 \- Blast Bware: [https://blastapi.io](https://blastapi.io/)\
 \- Alchemy (paid version): [https://alchemy.com](https://alchemy.com/)\
 \
+For Testnet (Sepolia)\
+\- https://sepolia.metisdevops.link
