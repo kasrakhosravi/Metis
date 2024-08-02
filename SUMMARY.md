@@ -23,21 +23,22 @@
   * [Locking Pool / NFT](decentralized-sequencer/overview/locking-pool-nft.md)
   * [Selection and Rotation](decentralized-sequencer/overview/selection-and-rotation.md)
 
-## Bridge
-
-* [Bridge FAQ](bridge/bridge-faq.md)
-* [NFT Bridge](bridge/nft-bridge.md)
-* [LayerZero](bridge/layerzero.md)
-
 ## Tools
 
 * [Analytics](tools/analytics.md)
+* [RPC endpoints](tools/rpc-endpoints.md)
 * [Oracles](tools/oracles.md)
 * [Indexers](tools/indexers/README.md)
   * [Flair](tools/indexers/flair.md)
   * [Envio](tools/indexers/envio.md)
   * [SubQuery](tools/indexers/subquery.md)
 * [The Subgraph](tools/the-subgraph.md)
+
+## Bridge
+
+* [Bridge FAQ](bridge/bridge-faq.md)
+* [NFT Bridge](bridge/nft-bridge.md)
+* [LayerZero](bridge/layerzero.md)
 
 ## Support
 
