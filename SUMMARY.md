@@ -26,12 +26,12 @@
 ## Tools
 
 * [Analytics](tools/analytics.md)
-* [RPC endpoints](tools/rpc-endpoints.md)
-* [Oracles](tools/oracles.md)
 * [Indexers](tools/indexers/README.md)
   * [Flair](tools/indexers/flair.md)
   * [Envio](tools/indexers/envio.md)
   * [SubQuery](tools/indexers/subquery.md)
+* [Oracles](tools/oracles.md)
+* [RPC endpoints](tools/rpc-endpoints.md)
 * [The Subgraph](tools/the-subgraph.md)
 
 ## Bridge
